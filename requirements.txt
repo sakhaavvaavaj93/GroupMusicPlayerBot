@@ -15,8 +15,6 @@ ffmpeg
 Pillow
 ujson
 yt-dlp
-pyromod
-get
 psutil
 heroku3
 hurry.filesize
